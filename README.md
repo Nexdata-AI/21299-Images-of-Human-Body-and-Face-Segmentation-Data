@@ -3,7 +3,7 @@
 ## Description
 21,299 Images of Human Body and Face Segmentation Data. The data includes indoor scenes and outdoor scenes. The data covers female people and male people. The race distribution includes Asian, black race and Caucasian. The age distribution ranges from teenager to the elderly, the middle-aged and young people are the majorities. The dataset diversity includes multiple scenes, ages, races, postures, and appendages. In terms of annotation, we adpoted pixel-wise segmentation annotations on human face, the five sense organs, body and appendages. The data can be used for tasks such as human body segmentation.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1188?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 ## Data size
